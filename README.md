@@ -4,6 +4,6 @@ App e-commerce.
 
 ## Stack
 
- * Angular
+ * Angular 2/4 + angular-cli
  * Bootstrap 4 
  
