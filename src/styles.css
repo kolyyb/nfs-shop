@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+body {
+    padding-top: 40px;
+}
+
+.jumbotron {
+    background: url('/assets/img/macaron_tinysized.jpg') no-repeat;
+    background-size: cover;
+}
+
+.header-title {
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.60);
+}
+.lead {
+    font-size: 22px;
+    font-weight:400;
+}
+.btn-secondary {
+    background-color: #37C7FB;
+    border-style: none;
+}
